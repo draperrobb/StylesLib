@@ -1,0 +1,178 @@
+/* ------------------------------- lib of borders ------------------------------- */ 
+
+/* -------------------- base of borders -------------------- */
+
+.border{
+	border-color: #000000;
+}
+
+/* -------------------- sizes of borders -------------------- */
+
+.border-1px{
+	border-width: 1px;
+}
+.border-2px{
+	border-width: 2px;
+}
+.border-3px{
+	border-width: 3px;
+}
+.border-4px{
+	border-width: 4px;
+}
+.border-5px{
+	border-width: 5px;
+}
+.border-6px{
+	border-width: 6px;
+}
+.border-7px{
+	border-width: 7px;
+}
+.border-8px{
+	border-width: 8px;
+}
+.border-9px{
+	border-width: 9px;
+}
+.border-10px{
+	border-width: 10px;
+}
+
+/* -------------------- types of borders -------------------- */
+
+.border-solid{
+	border-style: solid;
+}
+.border-dashed{
+	border-style: dashed;
+}
+.border-dotted{
+	border-style: dotted;
+}
+.border-double{
+	border-style: double;
+}
+
+/* -------------------- main colors of borders -------------------- */
+
+.border-primary{
+	border-color: #4285f4;
+}
+.border-primary-dark{
+	border-color: #0d47a1;
+}
+.border-default{
+	border-color: #2bbbad;
+}
+.border-default-dark{
+	border-color: #00695c;
+}
+.border-secondary{
+	border-color: #aa66cc;
+}
+.border-secondary-dark{
+	border-color: #9933cc;
+}
+.border-info{
+	border-color: #33b5e5;
+}
+.border-info-dark{
+	border-color: #0099cc;
+}
+.border-success{
+	border-color: #00c851;
+}
+.border-success-dark{
+	border-color: #007e33;
+}
+.border-warning{
+	border-color: #ffbb33;
+}
+.border-warning-dark{
+	border-color: #ff8800;
+}
+.border-danger{
+	border-color: #ff3547;
+}
+.border-danger-dark{
+	border-color: #cc0000;
+}
+
+/* -------------------- monohrome colors of borders -------------------- */
+
+.border-white{
+	border-color: #fff;
+}
+.border-light-grey{
+	border-color: #e0e0e0;
+}
+.border-grey{
+	border-color: #9e9e9e;
+}
+.border-elegant{
+	border-color: #2e2e2e;
+}
+.border-elegant-dark{
+	border-color: #212121;
+}
+.border-black{
+	border-color: #000000;
+}
+
+/* -------------------- additional colors of borders -------------------- */
+
+.border-red{
+	border-color: #f44336;
+}
+.border-pink{
+	border-color: #e91e63;
+}
+.border-purple{
+	border-color: #9c27b0;
+}
+.border-deep-purple{
+	border-color: #673ab7;
+}
+.border-indigo{
+	border-color: #3f51b5;
+}
+.border-blue{
+	border-color: #2196f3;
+}
+.border-light-blue{
+	border-color: #03a9f4;
+}
+.border-cyan{
+	border-color: #00bcd4;
+}
+.border-aqua{
+	border-color: #17eee3
+}
+.border-teal{
+	border-color: #009688;
+}
+.border-green{
+	border-color: #4caf50;
+}
+.border-light-green{
+	border-color: #8bc34a;
+}
+.border-lime{
+	border-color: #cddc39;
+}
+.border-yellow{
+	border-color: #ffeb3b;
+}
+.border-amber{
+	border-color: #ffc107
+}
+.border-orange{
+	border-color: #ff9800;
+}
+.border-deep-orange{
+	border-color: #ff5722;
+}
+.border-brown{
+	border-color: #795548;
+}
